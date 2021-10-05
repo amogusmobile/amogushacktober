@@ -1,0 +1,2 @@
+# amogushacktober
+for hacktober
